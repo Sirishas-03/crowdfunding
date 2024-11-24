@@ -8,20 +8,10 @@ Our crowdfunding enables project creators to raise capital directly from a globa
 
 ## Project Overview
 ![Alt text](https://github.com/Sirishas-03/crowdfunding/blob/main/crowdfunding1.png?raw=true)
-
+![Alt text](https://github.com/Sirishas-03/crowdfunding/blob/main/crowdfunding2.png?raw=true)
 ## Instruction
 
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/crowd-funding-marketplace-project-source-code)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/DKWqBqZDh74?si=7CUfjABG3zxRC4dt)
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
 
 #### Install Vs Code Editor
 
@@ -95,14 +85,3 @@ We are using RemixID for deploying the contract and generation of the ABI in the
   OPEN: Polygon Mumbai
 ```
 
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)

@@ -7,7 +7,7 @@ Revolutionize the way projects and ideas are funded with our blockchain crowdfun
 Our crowdfunding enables project creators to raise capital directly from a global pool of investors without the need for intermediaries. By utilizing smart contracts, the DApp automates the fundraising process, ensuring that funds are released to project creators only when predefined milestones are met, thereby increasing accountability and reducing the risk of fraud
 
 ## Project Overview
-![Uploading image.png…]()
+![Alt text](https://github.com/Sirishas-03/crowdfunding/blob/main/crowdfunding1.png?raw=true)
 
 ## Instruction
 
